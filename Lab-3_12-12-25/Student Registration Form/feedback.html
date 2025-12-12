@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Feedback page</title>
+    <link rel="stylesheet" href="style.css"/>
+    <style>
+
+
+
+        
+    </style>
+</head>
+<body>
+
+    <h1>Registration Form</h1>
+
+    <form id="feedbackForm">
+        <fieldset>
+        <legend>Feedback</legend>
+        <label>Your Name:</label>
+        <input type="text" required>
+
+        <label>Rate Your Experience:</label>
+        <select required>
+            <option value="">Choose</option>
+            <option>1 - Poor</option>
+            <option>2 - Fair</option>
+            <option>3 - Good</option>
+            <option>4 - Very Good</option>
+            <option>5 - Excellent</option>
+        </select>
+
+        <label>Additional Comments:</label>
+        <textarea placeholder="Write your feedback here... (optional)"></textarea>
+        </fieldset>
+        <button type="button" onclick="window.location.href='page3.html'">Previous</button>
+        <button class="button" type="button" onclick="window.location.href='submit.html'">Submit</button>
+    </form>
+
+</body>
+</html>

@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Academic Details</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<h1>Registration Form</h1>
+<br>
+<p class="form-note"><b>Please fill in the details</b></p>
+<form>
+    <fieldset>
+        <legend>Academic Information</legend>
+        <label>Highest Qualification:</label>
+        <select>
+            <option>Select</option>
+            <option>High School</option>
+            <option>Diploma</option>
+            <option>Bachelor's Degree</option>
+            <option>Master's Degree</option>
+            <option>PhD</option>
+        </select>
+        <label>Institution Name:</label>
+        <input type="text">
+        <label>Year of Completion:</label>
+        <input type="number" min="1900" max="2099">
+    </fieldset>
+    <button type="button" onclick="window.location.href='page1.html'">Previous</button>
+    <button type="button" onclick="window.location.href='page3.html'">Next</button>
+</form>
+</body>
+</html>
