@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Table-2</title>
+
+    <style>
+        table{
+            border-collapse: collapse;
+            height: 100%;
+
+        }
+        .table1 {
+            border: 3px solid rgb(17, 146, 0);
+        }
+        .table1 td {
+            border: 2.5px solid rgb(17, 146, 0);
+            padding: 10px;
+            vertical-align: center;
+        }
+        .table2 {
+            border: 3px solid rgb(0, 5, 146);
+        }
+        .table2 td {
+            border: 2.5px solid rgb(0, 5, 146);
+            padding: 10px;
+            text-align: center;
+        }
+    </style>
+
+</head>
+<body>
+
+<table class="table1">
+    <tr>
+        <td>
+            <table class="table1">
+                <tr><td>Table 1</td></tr>
+            </table>
+        </td>
+
+        <td>
+            <table class="table1">
+                <tr>
+                    <td>
+                        Table 1<br><br>
+                        <table class="table2">
+                            <tr>
+                                <td>
+                                    <table class="table2">
+                                        <tr><td>Table 2</td></tr>
+                                    </table>
+                                </td>
+                                <td>
+                                    <table class="table2">
+                                        <tr><td>Table 2</td></tr>
+                                    </table>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>
+                                    <table class="table2">
+                                        <tr><td>Table 2</td></tr>
+                                    </table>
+                                </td>
+                                <td>
+                                    <table class="table2">
+                                        <tr><td>Table 2</td></tr>
+                                    </table>
+                                </td>
+                            </tr>
+                        </table>
+                    </td>
+                </tr>
+            </table>
+        </td>
+    </tr>
+
+    <tr>
+        <td>
+            <table class="table1">
+                <tr><td>Table 1</td></tr>
+            </table>
+        </td>
+        <td>
+            <table class="table1">
+                <tr><td width="180px;">Table 1</td></tr>
+            </table>
+        </td>
+    </tr>
+</table>
+
+</body>
+</html>

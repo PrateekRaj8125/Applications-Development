@@ -1,0 +1,161 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Registration Page</title>
+
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background: #f5f5f5;
+            padding: 20px;
+        }
+
+        h1 {
+            text-align: center;
+        }
+
+        form {
+            width: 60%;
+            margin: auto;
+            background: white;
+            padding: 25px;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+        }
+
+        fieldset {
+            margin-bottom: 25px;
+            border: 2px solid #555;
+            padding: 15px;
+            border-radius: 6px;
+        }
+
+        legend {
+            font-weight: bold;
+            padding: 0 10px;
+        }
+
+        label {
+            display: block;
+            margin-top: 8px;
+            font-weight: bold;
+        }
+
+        input, select, textarea {
+            width: 95%;
+            padding: 8px;
+            margin-top: 3px;
+            border-radius: 4px;
+            border: 1px solid #aaa;
+        }
+
+        button {
+            width: 100%;
+            padding: 12px;
+            background: #0077cc;
+            color: white;
+            font-size: 16px;
+            border: none;
+            border-radius: 6px;
+            cursor: pointer;
+        }
+
+        button:hover {
+            background: #005fa3;
+        }
+    </style>
+</head>
+
+<body>
+
+<h1>Registration Form</h1>
+
+<form>
+
+    <fieldset>
+        <legend>Login / Password</legend>
+
+        <label>Username:</label>
+        <input type="text" required>
+
+        <label>Password:</label>
+        <input type="password" required>
+
+        <label>Confirm Password:</label>
+        <input type="password" required>
+    </fieldset>
+
+
+    <fieldset>
+        <legend>Personal Information</legend>
+
+        <label>Full Name:</label>
+        <input type="text" required>
+
+        <label>Date of Birth:</label>
+        <input type="date">
+
+        <label>Gender:</label>
+        <select>
+            <option>Select</option>
+            <option>Male</option>
+            <option>Female</option>
+            <option>Other</option>
+        </select>
+
+        <label>Email:</label>
+        <input type="email" required>
+
+        <label>Phone Number:</label>
+        <input type="tel">
+    </fieldset>
+
+
+    <fieldset>
+        <legend>Academic Information</legend>
+
+        <label>Highest Qualification:</label>
+        <select>
+            <option>Select</option>
+            <option>High School</option>
+            <option>Diploma</option>
+            <option>Bachelor's Degree</option>
+            <option>Master's Degree</option>
+            <option>PhD</option>
+        </select>
+
+        <label>Institution Name:</label>
+        <input type="text">
+
+        <label>Year of Completion:</label>
+        <input type="number" min="1900" max="2099">
+    </fieldset>
+
+
+    <fieldset>
+        <legend>Professional (Training / Placement) Information</legend>
+
+        <label>Current Status:</label>
+        <select>
+            <option>Select</option>
+            <option>Student</option>
+            <option>Intern</option>
+            <option>Employed</option>
+            <option>Looking for Placement</option>
+        </select>
+
+        <label>Area of Training / Expertise:</label>
+        <input type="text">
+
+        <label>Previous Experience (if any):</label>
+        <textarea rows="4"></textarea>
+    </fieldset>
+
+    <button type="submit">Submit Registration</button>
+
+</form>
+
+</body>
+</html>

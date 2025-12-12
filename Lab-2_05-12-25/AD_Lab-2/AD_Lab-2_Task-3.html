@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Custom Grid</title>
+
+<style>
+    .grid {
+        display: grid;
+        grid-template-columns: 100px 50px 100px 50px 100px;
+        grid-template-rows: repeat(5, 50px);
+        border: 3px solid black;
+        width: 400px;
+        position: relative;
+    }
+
+    .cell {
+        border: 1px solid black;
+    }
+
+    .v-dash-1 {
+        position: absolute;
+        left: calc(1 * 100px);
+        top: 0;
+        height: 50px;
+        border-right: 3px dashed red;
+    }
+    .v-dash-2 {
+        position: absolute;
+        left: calc(3 * 50px);
+        top: 0;
+        height: 50px;
+        border-right: 3px dashed red;
+    }
+    .v-dash-45 {
+        position: absolute;
+        left: calc(3 * 100px);
+        top: 200px;
+        height: 50px;
+        border-right: 3px dashed red;
+    }
+
+    .v-dash-34 {
+        position: absolute;
+        left: calc(3 * 100px - 50px);
+        top: 150px;
+        height: 100px;
+        border-right: 3px dashed red;
+    }
+    .v-dash-23 {
+        position: absolute;
+        left: calc(3 * 50px);
+        top: 150px;
+        height: 50px;
+        border-right: 3px dashed red;
+    }
+
+    .h-dash-1 {
+        position: absolute;
+        top: calc(3 * 50px);
+        left: 0;
+        width: 100px;
+        border-bottom: 3px dashed red;
+    }
+
+    .h-dash-2 {
+        position: absolute;
+        top: calc(2 * 50px);
+        left: 100px;
+        width: 50px;
+        border-bottom: 3px dashed red;
+    }
+    .h-dash-12 {
+        position: absolute;
+        top: calc(1 * 50px);
+        left: 300px;
+        width: 100px;
+        border-bottom: 3px dashed red;
+    }
+    .h-dash-23 {
+        position: absolute;
+        top: calc(2 * 50px);
+        left: 300px;
+        width: 100px;
+        border-bottom: 3px dashed red;
+    }
+    </style>
+
+    </head>
+    <body>
+
+    <div class="grid">
+    <div class="cell"></div><div class="cell"></div><div class="cell"></div><div class="cell"></div><div class="cell"></div>
+    <div class="cell"></div><div class="cell"></div><div class="cell"></div><div class="cell"></div><div class="cell"></div>
+    <div class="cell"></div><div class="cell"></div><div class="cell"></div><div class="cell"></div><div class="cell"></div>
+    <div class="cell"></div><div class="cell"></div><div class="cell"></div><div class="cell"></div><div class="cell"></div>
+    <div class="cell"></div><div class="cell"></div><div class="cell"></div><div class="cell"></div><div class="cell"></div>
+
+    <div class="v-dash-1"></div>
+    <div class="v-dash-45"></div>
+    <div class="v-dash-2"></div>
+    <div class="h-dash-1"></div>
+    <div class="h-dash-2"></div>
+    <div class="v-dash-34"></div>
+    <div class="v-dash-23"></div>
+    <div class="h-dash-12"></div>
+    <div class="h-dash-23"></div>
+</div>
+
+</body>
+</html>
