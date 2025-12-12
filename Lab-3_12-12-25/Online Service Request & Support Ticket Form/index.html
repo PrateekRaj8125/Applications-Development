@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>Online Service Request & Support Ticket Form</title>
+        <link rel="stylesheet" href="style.css"/>
+    </head>
+    <body>
+        <h1>Online Service Request & Support Ticket Form</h1>
+        <form action="/submit_ticket" method="POST" enctype="multipart/form-data">
+            <label for="completion">Form Completion:</label>
+            <meter id="completion" min="0" max="100" value="40">40%</meter>
+            <fieldset>
+                <legend>User Information</legend>
+                <label for="ticketID">Ticket ID:</label>
+                <input type="number" id="ticketID" name="ticketID" required>
+                <label for="fullname">Full Name:</label>
+                <input type="text" id="fullname" name="fullname" required>
+                <label for="email">Email Address:</label>
+                <input type="email" id="email" name="email" required>
+                <label for="contact">Contact Number:</label>
+                <input type="number" id="contact" name="contact">
+                <label for="website">Website (if issue is web-related):</label>
+                <input type="url" id="website" name="website">
+            </fieldset>
+            <fieldset>
+                <legend>Issue Details</legend>
+                <label for="subject">Subject:</label>
+                <input type="text" id="subject" name="subject" required>
+                <label for="issueDate">Issue Date:</label>
+                <input type="date" id="issueDate" name="issueDate" required>
+                <label for="callTime">Preferred Call Time:</label>
+                <input type="time" id="callTime" name="callTime">
+                <label for="problemType">Problem Type (auto-suggest):</label>
+                <input list="problemOptions" id="problemType" name="problemType">
+                <datalist id="problemOptions">
+                    <option value="Login Failure">
+                    <option value="Server Timeout">
+                    <option value="API Endpoint Error">
+                    <option value="UI Bug">
+                    <option value="Security Concern">
+                </datalist>
+                <label>Issue Categories:</label><br>
+                <input type="checkbox" name="category" value="network"> Network Issue<br>
+                <input type="checkbox" name="category" value="software"> Software Bug<br>
+                <input type="checkbox" name="category" value="hardware"> Hardware Failure<br>
+                <input type="checkbox" name="category" value="account"> Account/Access Issue<br><br>
+                <label for="description">Detailed Issue Description:</label>
+                <textarea id="description" name="description" rows="6" required></textarea>
+                <label for="progress">Diagnostic Progress:</label>
+                <progress id="progress" value="20" max="100">20%</progress>
+            </fieldset>
+            <fieldset>
+                <legend>Device / Service Information</legend>
+                <label for="deviceType">Device or Service Type:</label>
+                <select id="deviceType" name="deviceType" multiple size="5">
+                    <optgroup label="Devices">
+                        <option value="desktop">Desktop</option>
+                        <option value="laptop">Laptop</option>
+                        <option value="mobile">Mobile</option>
+                        <option value="tablet">Tablet</option>
+                    </optgroup>
+                    <optgroup label="Services">
+                        <option value="cloud">Cloud Hosting</option>
+                        <option value="database">Database Access</option>
+                        <option value="api">API Service</option>
+                        <option value="storage">File Storage</option>
+                    </optgroup>
+                </select>
+                <label for="screenshot">Attach Screenshot/Document:</label>
+                <input type="file" id="screenshot" name="screenshot">
+            </fieldset>
+            <fieldset>
+                <legend>Priority & Consent</legend>
+                <label>Priority Level:</label><br>
+                <input type="radio" name="priority" value="low"> Low<br>
+                <input type="radio" name="priority" value="medium"> Medium<br>
+                <input type="radio" name="priority" value="high"> High<br>
+                <input type="radio" name="priority" value="critical"> Critical<br><br>
+                <label for="urgency">Urgency Level (0–10):</label>
+                <input type="range" id="urgency" name="urgency" min="0" max="10">
+                <input type="checkbox" id="consent" name="consent" required>
+                <label for="consent">I confirm that the provided information is accurate and I consent to processing.</label>
+            </fieldset>
+            <button type="submit">Submit Ticket</button>
+            <button type="reset">Reset Form</button>
+        </form>
+    </body>
+</html>
