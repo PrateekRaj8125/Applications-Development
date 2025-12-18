@@ -1,6 +1,6 @@
 body {
     font-family: Arial, sans-serif;
-    background: #f4f6fa;
+    background: #fee336;
     margin: 0;
     padding: 30px;
     color: #222;
@@ -20,7 +20,7 @@ form {
     box-shadow: 0 4px 16px rgba(0,0,0,0.15);
 }
 fieldset {
-    border: 1px solid #d0d7e2;
+    border: 1px solid #ffffff;
     border-radius: 10px;
     padding: 20px 25px;
     margin-bottom: 25px;
