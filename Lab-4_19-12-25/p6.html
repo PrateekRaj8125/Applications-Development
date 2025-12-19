@@ -1,0 +1,17 @@
+<html>
+    <title>Read User Input</title>
+    <body>
+        <script>
+            document.writeln("<h2>Guess The Weather</h2>");
+            function forecast(f){
+                a=confirm("Will it rain today?");
+                if(a)   f.option.value="Rain";
+                else    f.option.value="Sunny";
+            }
+        </script>
+        <form>
+            <input type="button" value="Click" onclick="forecast(this.form)">
+            <p>Forecast:<input type="text" name="option" size="7">
+        </form>
+    </body>
+</html>

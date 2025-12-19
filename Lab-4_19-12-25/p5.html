@@ -1,0 +1,15 @@
+<html>
+    <body>
+        <script>
+            let clickCount = 0;
+            const colors = ["#0000ff", "#00ff00", "#ff0000"];
+            function change_color() {
+                clickCount = (clickCount + 1) % colors.length;
+                document.body.style.backgroundColor = colors[clickCount];
+            }
+        </script>
+        <form>
+            <input type="button" Value="Color" onClick="change_color()">
+        </form>
+    </body>
+</html>
