@@ -8,10 +8,10 @@ Includes basic HTML projects to demonstrate foundational web development concept
 
 | S. No. | Projects | Files |
 | --- | --- | --- |
-| 1. | Create a career guidance webpage with expandable sections and internal navigation. | [Career Path]() |
-| 2. | Design a digital museum webpage showcasing history, inventions, and artifacts. | [Digital Museum]() |
-| 3. | Build a personal portfolio webpage displaying profile, projects, and skills. | [Portfolio]() |
-| 4. | Develop a multi-page treasure hunt game using linked HTML pages. | [Treasure Hunt]() |
+| 1. | Create a career guidance webpage with expandable sections and internal navigation. | [Career Path](https://github.com/PrateekRaj8125/Applications-Development/tree/main/code/Basic-HTML-Mini-Projects/Career-Path) |
+| 2. | Design a digital museum webpage showcasing history, inventions, and artifacts. | [Digital Museum](https://github.com/PrateekRaj8125/Applications-Development/tree/main/code/Basic-HTML-Mini-Projects/Digital-Museum) |
+| 3. | Build a personal portfolio webpage displaying profile, projects, and skills. | [Portfolio](https://github.com/PrateekRaj8125/Applications-Development/tree/main/code/Basic-HTML-Mini-Projects/Portfolio) |
+| 4. | Develop a multi-page treasure hunt game using linked HTML pages. | [Treasure Hunt](https://github.com/PrateekRaj8125/Applications-Development/tree/main/code/Basic-HTML-Mini-Projects/Treasure-Hunt) |
 
 ---
 

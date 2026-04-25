@@ -8,7 +8,7 @@ The webpage is designed as a **simple digital resume/portfolio** using only HTML
 
 ## 📄 File
 
-- [`index.html`]()
+- [`index.html`](https://github.com/PrateekRaj8125/Applications-Development/blob/main/code/Basic-HTML-Mini-Projects/Portfolio/index.html)
 
 ---
 

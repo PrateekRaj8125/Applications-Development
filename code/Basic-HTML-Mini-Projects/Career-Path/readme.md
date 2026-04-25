@@ -8,7 +8,7 @@ The webpage provides an interactive structure where users can expand categories 
 
 ## 📄 File
 
-- [`index.html`]()
+- [`index.html`](https://github.com/PrateekRaj8125/Applications-Development/blob/main/code/Basic-HTML-Mini-Projects/Career-Path/index.html)
 
 ---
 

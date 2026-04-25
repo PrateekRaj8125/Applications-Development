@@ -10,11 +10,11 @@ The layout integrates multiple HTML pages into a single interface using frames.
 
 | S. No. | Description | Files |
 | --- | --- | --- |
-| 1. | Frameset layout combining all sections | [`index.html`]() |
-| 2. | Project title and description | [`frame-top.html`]() |
-| 3. | External project links (GitHub, LinkedIn, Demo) | [`frame2.html`]() |
-| 4. | Displays project circuit image | [`frame1.html`]() |
-| 5. | Shows actual project implementation | [`frame3.html`]() |
+| 1. | Frameset layout combining all sections | [`index.html`](https://github.com/PrateekRaj8125/Applications-Development/blob/main/code/HTML-Frameset-Projects/HTML-Frameset-IoT-Project-Layout/index.html) |
+| 2. | Project title and description | [`frame-top.html`](https://github.com/PrateekRaj8125/Applications-Development/blob/main/code/HTML-Frameset-Projects/HTML-Frameset-IoT-Project-Layout/frame-top.html) |
+| 3. | External project links (GitHub, LinkedIn, Demo) | [`frame2.html`](https://github.com/PrateekRaj8125/Applications-Development/blob/main/code/HTML-Frameset-Projects/HTML-Frameset-IoT-Project-Layout/frame2.html) |
+| 4. | Displays project circuit image | [`frame1.html`](https://github.com/PrateekRaj8125/Applications-Development/blob/main/code/HTML-Frameset-Projects/HTML-Frameset-IoT-Project-Layout/frame1.html) |
+| 5. | Shows actual project implementation | [`frame3.html`](https://github.com/PrateekRaj8125/Applications-Development/blob/main/code/HTML-Frameset-Projects/HTML-Frameset-IoT-Project-Layout/frame3.html) |
 
 ---
 

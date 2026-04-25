@@ -10,10 +10,10 @@ These projects focus on dividing a webpage into multiple sections and loading di
 
 | S. No. | Projects | Description |
 | --- | --- | --- |
-| 1. | [HTML Frameset Layout]() | Basic multi-frame webpage structure |
-| 2. | [IoT Project Layout]() | Frameset-based project presentation |
-| 3. | [Portfolio with CSS]() | Styled portfolio using frames and CSS |
-| 4. | [Tech Event Portal]() | Event-based multi-section layout |
+| 1. | [HTML Frameset Layout](https://github.com/PrateekRaj8125/Applications-Development/tree/main/code/HTML-Frameset-Projects/HTML-Frameset-Layout) | Basic multi-frame webpage structure |
+| 2. | [IoT Project Layout](https://github.com/PrateekRaj8125/Applications-Development/tree/main/code/HTML-Frameset-Projects/HTML-Frameset-IoT-Project-Layout) | Frameset-based project presentation |
+| 3. | [Portfolio with CSS](https://github.com/PrateekRaj8125/Applications-Development/tree/main/code/HTML-Frameset-Projects/HTML-Frameset-Portfolio-with-CSS) | Styled portfolio using frames and CSS |
+| 4. | [Tech Event Portal](https://github.com/PrateekRaj8125/Applications-Development/tree/main/code/HTML-Frameset-Projects/HTML-Frameset-Tech-Event-Portal) | Event-based multi-section layout |
 
 ---
 

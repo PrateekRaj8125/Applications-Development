@@ -87,7 +87,7 @@ Use GitHub Issues and include:
 ## 🔒 Security
 
 Please do not disclose vulnerabilities publicly.  
-Refer to [SECURITY.md]() for responsible reporting.
+Refer to [SECURITY.md](https://github.com/PrateekRaj8125/Applications-Development/blob/main/docs/SECURITY.md) for responsible reporting.
 
 ---
 

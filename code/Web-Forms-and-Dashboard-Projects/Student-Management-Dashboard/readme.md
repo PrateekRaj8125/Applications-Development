@@ -8,9 +8,9 @@ Includes a web-based application that allows users to **register, manage, and di
 
 | S. No. | Description | File |
 | --- | --- | --- |
-| 1. | Main dashboard interface | [`index.html`]() |
-| 2. | Styling for layout and UI | [`style.css`]() |
-| 3. | JavaScript logic and interactivity | [`script.js`]() |
+| 1. | Main dashboard interface | [`index.html`](https://github.com/PrateekRaj8125/Applications-Development/blob/main/code/Web-Forms-and-Dashboard-Projects/Student-Management-Dashboard/index.html) |
+| 2. | Styling for layout and UI | [`style.css`](https://github.com/PrateekRaj8125/Applications-Development/blob/main/code/Web-Forms-and-Dashboard-Projects/Student-Management-Dashboard/style.css) |
+| 3. | JavaScript logic and interactivity | [`script.js`](https://github.com/PrateekRaj8125/Applications-Development/blob/main/code/Web-Forms-and-Dashboard-Projects/Student-Management-Dashboard/script.js) |
 
 ---
 

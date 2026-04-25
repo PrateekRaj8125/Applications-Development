@@ -8,12 +8,12 @@ This folder contains an HTML project that presents a **Tech Innovation Summit 20
 
 | S. No. | Description | Files |
 | --- | --- | --- |
-| 1. | Frameset combining all sections | [``](index.html) |
-| 2. | Event title and overview | [`frame1.html`]() |
-| 3. | List of featured speakers | [`frame2.html`]() |
-| 4. | Details of hands-on sessions | [`frame3.html`]() |
-| 5. | Latest updates | [`frame4.html`]() |
-| 6. | Support and contact information | [`frame5.html`]() |
+| 1. | Frameset combining all sections | [`index.html`](https://github.com/PrateekRaj8125/Applications-Development/blob/main/code/HTML-Frameset-Projects/HTML-Frameset-Tech-Event-Portal/index.html) |
+| 2. | Event title and overview | [`frame1.html`](https://github.com/PrateekRaj8125/Applications-Development/blob/main/code/HTML-Frameset-Projects/HTML-Frameset-Tech-Event-Portal/frame1.html) |
+| 3. | List of featured speakers | [`frame2.html`](https://github.com/PrateekRaj8125/Applications-Development/blob/main/code/HTML-Frameset-Projects/HTML-Frameset-Tech-Event-Portal/frame2.html) |
+| 4. | Details of hands-on sessions | [`frame3.html`](https://github.com/PrateekRaj8125/Applications-Development/blob/main/code/HTML-Frameset-Projects/HTML-Frameset-Tech-Event-Portal/frame3.html) |
+| 5. | Latest updates | [`frame4.html`](https://github.com/PrateekRaj8125/Applications-Development/blob/main/code/HTML-Frameset-Projects/HTML-Frameset-Tech-Event-Portal/frame4.html) |
+| 6. | Support and contact information | [`frame5.html`](https://github.com/PrateekRaj8125/Applications-Development/blob/main/code/HTML-Frameset-Projects/HTML-Frameset-Tech-Event-Portal/frame5.html) |
 
 ---
 

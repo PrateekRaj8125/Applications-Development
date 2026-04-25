@@ -10,9 +10,9 @@ The application allows users to submit detailed issue reports with structured in
 
 | S. No. | Description | File |
 | --- | --- | --- |
-| 1. | Main service request form | [`index.html`]() |
-| 2. | Confirmation/response page | [`submit.html`]() |
-| 3. | Styling for form and UI | [`style.css`]() |
+| 1. | Main service request form | [`index.html`](https://github.com/PrateekRaj8125/Applications-Development/blob/main/code/Web-Forms-and-Dashboard-Projects/Service-Request-Form/index.html) |
+| 2. | Confirmation/response page | [`submit.html`](https://github.com/PrateekRaj8125/Applications-Development/blob/main/code/Web-Forms-and-Dashboard-Projects/Service-Request-Form/submit.html) |
+| 3. | Styling for form and UI | [`style.css`](https://github.com/PrateekRaj8125/Applications-Development/blob/main/code/Web-Forms-and-Dashboard-Projects/Service-Request-Form/style.css) |
 
 ---
 

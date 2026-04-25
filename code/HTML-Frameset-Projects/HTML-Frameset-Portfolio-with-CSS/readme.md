@@ -10,11 +10,11 @@ The project integrates multiple pages (header, projects, internships) into a str
 
 | S. No. | Description | Files |
 | --- | --- | --- |
-| 1. | Frameset combining all sections | [`index.html`]() |
-| 2. | Profile image, name, and social links | [`header.html`]() |
-| 3. | List of projects with descriptions | [`projects.html`]() |
-| 4. | Internship experience details | [`internships.html`]() |
-| 5. | External CSS for layout and design | [`style.css`]() |
+| 1. | Frameset combining all sections | [`index.html`](https://github.com/PrateekRaj8125/Applications-Development/blob/main/code/HTML-Frameset-Projects/HTML-Frameset-Portfolio-with-CSS/index.html) |
+| 2. | Profile image, name, and social links | [`header.html`](https://github.com/PrateekRaj8125/Applications-Development/blob/main/code/HTML-Frameset-Projects/HTML-Frameset-Portfolio-with-CSS/header.html) |
+| 3. | List of projects with descriptions | [`projects.html`](https://github.com/PrateekRaj8125/Applications-Development/blob/main/code/HTML-Frameset-Projects/HTML-Frameset-Portfolio-with-CSS/projects.html) |
+| 4. | Internship experience details | [`internships.html`](https://github.com/PrateekRaj8125/Applications-Development/blob/main/code/HTML-Frameset-Projects/HTML-Frameset-Portfolio-with-CSS/internships.html) |
+| 5. | External CSS for layout and design | [`style.css`](https://github.com/PrateekRaj8125/Applications-Development/blob/main/code/HTML-Frameset-Projects/HTML-Frameset-Portfolio-with-CSS/style.css) |
 
 ---
 

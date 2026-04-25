@@ -8,11 +8,11 @@ Includes HTML programs demonstrating layout design using framesets. This project
 
 | S. No. | Description | Files |
 | --- | --- | --- |
-| 1. | Design a frameset layout using multiple HTML pages. | [`index.html`]() |
-| 2. | Display institution name and logo. | [`frame1.html`]() |
-| 3. | Create a navigation list using HTML. | [`frame2.html`]() |
-| 4. | Display upcoming events with dates. | [`frame3.html`]() |
-| 5. | Showcase highlights using styled lists. | [`frame4.html`]() |
+| 1. | Design a frameset layout using multiple HTML pages. | [`index.html`](https://github.com/PrateekRaj8125/Applications-Development/blob/main/code/HTML-Frameset-Projects/HTML-Frameset-Layout/index.html) |
+| 2. | Display institution name and logo. | [`frame1.html`](https://github.com/PrateekRaj8125/Applications-Development/blob/main/code/HTML-Frameset-Projects/HTML-Frameset-Layout/frame1.html) |
+| 3. | Create a navigation list using HTML. | [`frame2.html`](https://github.com/PrateekRaj8125/Applications-Development/blob/main/code/HTML-Frameset-Projects/HTML-Frameset-Layout/frame2.html) |
+| 4. | Display upcoming events with dates. | [`frame3.html`](https://github.com/PrateekRaj8125/Applications-Development/blob/main/code/HTML-Frameset-Projects/HTML-Frameset-Layout/frame3.html) |
+| 5. | Showcase highlights using styled lists. | [`frame4.html`](https://github.com/PrateekRaj8125/Applications-Development/blob/main/code/HTML-Frameset-Projects/HTML-Frameset-Layout/frame4.html) |
 
 ---
 

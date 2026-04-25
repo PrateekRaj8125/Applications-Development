@@ -16,7 +16,7 @@ If you discover a vulnerability, bug, or unexpected behavior in this repository,
 
 ### ✅ Do
 
-1. Create a [GitHub Security Advisory]()
+1. Create a [GitHub Security Advisory](https://github.com/PrateekRaj8125/Applications-Development/security/advisories)
     OR
 2. Report via email: <prateek.raj.indt@gmail.com>
 

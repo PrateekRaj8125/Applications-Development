@@ -9,9 +9,9 @@ The game is structured as a sequence of linked webpages, creating a **decision-b
 
 ## 📄 Files
 
-- [`index.html`]() – Game entry point
-- [`clue1.html`]() → [`clue2.html`]() → [`clue3.html`]() → [`clue4.html`]() → [`clue5.html`]() – Progressive clues
-- [`trap.html`]() – Wrong choice page
+- [`index.html`](https://github.com/PrateekRaj8125/Applications-Development/blob/main/code/Basic-HTML-Mini-Projects/Treasure-Hunt/index.html) – Game entry point
+- [`clue1.html`](https://github.com/PrateekRaj8125/Applications-Development/blob/main/code/Basic-HTML-Mini-Projects/Treasure-Hunt/clue1.html) → [`clue2.html`](https://github.com/PrateekRaj8125/Applications-Development/blob/main/code/Basic-HTML-Mini-Projects/Treasure-Hunt/clue2.html) → [`clue3.html`](https://github.com/PrateekRaj8125/Applications-Development/blob/main/code/Basic-HTML-Mini-Projects/Treasure-Hunt/clue3.html) → [`clue4.html`](https://github.com/PrateekRaj8125/Applications-Development/blob/main/code/Basic-HTML-Mini-Projects/Treasure-Hunt/clue4.html) → [`clue5.html`](https://github.com/PrateekRaj8125/Applications-Development/blob/main/code/Basic-HTML-Mini-Projects/Treasure-Hunt/clue5.html) – Progressive clues
+- [`trap.html`](https://github.com/PrateekRaj8125/Applications-Development/blob/main/code/Basic-HTML-Mini-Projects/Treasure-Hunt/trap.html) – Wrong choice page
 
 ---
 
@@ -20,7 +20,7 @@ The game is structured as a sequence of linked webpages, creating a **decision-b
 The application works as follows:
 
 - 🎮 **Game Start**
-  - User begins from [`index.html`]()
+  - User begins from [`index.html`](https://github.com/PrateekRaj8125/Applications-Development/blob/main/code/Basic-HTML-Mini-Projects/Treasure-Hunt/index.html)
 - 🧭 **Clue Navigation**
   - Each page presents a scenario with multiple choices
   - Correct choices lead to the next clue

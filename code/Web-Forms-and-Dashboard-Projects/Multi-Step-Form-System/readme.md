@@ -10,13 +10,13 @@ This project simulates a real-world form workflow where user data is collected s
 
 | S. No. | Description | File |
 | --- | --- | --- |
-| 1. | Login details page | [`index.html`]() |
-| 2. | Personal information | [`page1.html`]() |
-| 3. | Academic details | [`page2.html`]() |
-| 4. | Professional details | [`page3.html`]() |
-| 5. | Feedback form | [`feedback.html`]() |
-| 6. | Confirmation page | [`submit.html`]() |
-| 7. | Styling for entire application | [`style.css`]() |
+| 1. | Login details page | [`index.html`](https://github.com/PrateekRaj8125/Applications-Development/blob/main/code/Web-Forms-and-Dashboard-Projects/Multi-Step-Form-System/index.html) |
+| 2. | Personal information | [`page1.html`](https://github.com/PrateekRaj8125/Applications-Development/blob/main/code/Web-Forms-and-Dashboard-Projects/Multi-Step-Form-System/page1.html) |
+| 3. | Academic details | [`page2.html`](https://github.com/PrateekRaj8125/Applications-Development/blob/main/code/Web-Forms-and-Dashboard-Projects/Multi-Step-Form-System/page2.html) |
+| 4. | Professional details | [`page3.html`](https://github.com/PrateekRaj8125/Applications-Development/blob/main/code/Web-Forms-and-Dashboard-Projects/Multi-Step-Form-System/page3.html) |
+| 5. | Feedback form | [`feedback.html`](https://github.com/PrateekRaj8125/Applications-Development/blob/main/code/Web-Forms-and-Dashboard-Projects/Multi-Step-Form-System/feedback.html) |
+| 6. | Confirmation page | [`submit.html`](https://github.com/PrateekRaj8125/Applications-Development/blob/main/code/Web-Forms-and-Dashboard-Projects/Multi-Step-Form-System/submit.html) |
+| 7. | Styling for entire application | [`style.css`](https://github.com/PrateekRaj8125/Applications-Development/blob/main/code/Web-Forms-and-Dashboard-Projects/Multi-Step-Form-System/style.css) |
 
 ---
 

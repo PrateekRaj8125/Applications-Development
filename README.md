@@ -38,12 +38,12 @@ Each folder represents a **progressive level of learning**, making it ideal for:
 
 | Level | Folder Name | Concepts Covered | Description |
 | --- | --- | --- | --- |
-| 1. | [Basic HTML Mini Projects]() | HTML structure, navigation | Beginner projects like portfolio, museum, and interactive pages |
-| 2. | [HTML Layouts and Forms]() | Tables, forms, CSS basics | Layout design and structured form development |
-| 3. | [HTML Frameset Projects]() | Frames, multi-page layouts | Legacy layout techniques using framesets |
-| 4. | [Web Forms and Dashboard Projects]() | Forms, workflows, JS | Real-world applications like dashboards and multi-step forms |
-| 5. | [JavaScript Basics and Interactions]() | Alerts, events, DOM | Interactive scripting and user interaction |
-| 6. | [Python Core Concepts Notebooks]() | Data structures, control flow | Foundational Python programming concepts |
+| 1. | [Basic HTML Mini Projects](https://github.com/PrateekRaj8125/Applications-Development/tree/main/code/Basic-HTML-Mini-Projects) | HTML structure, navigation | Beginner projects like portfolio, museum, and interactive pages |
+| 2. | [HTML Layouts and Forms](https://github.com/PrateekRaj8125/Applications-Development/tree/main/code/HTML-Layouts-and-Forms) | Tables, forms, CSS basics | Layout design and structured form development |
+| 3. | [HTML Frameset Projects](https://github.com/PrateekRaj8125/Applications-Development/tree/main/code/HTML-Frameset-Projects) | Frames, multi-page layouts | Legacy layout techniques using framesets |
+| 4. | [Web Forms and Dashboard Projects](https://github.com/PrateekRaj8125/Applications-Development/tree/main/code/Web-Forms-and-Dashboard-Projects) | Forms, workflows, JS | Real-world applications like dashboards and multi-step forms |
+| 5. | [JavaScript Basics and Interactions](https://github.com/PrateekRaj8125/Applications-Development/tree/main/code/JavaScript-Basics-and-Interactions) | Alerts, events, DOM | Interactive scripting and user interaction |
+| 6. | [Python Core Concepts Notebooks](https://github.com/PrateekRaj8125/Applications-Development/tree/main/code/Python-Core-Concepts-Notebooks) | Data structures, control flow | Foundational Python programming concepts |
 
 ---
 
@@ -109,7 +109,7 @@ By working through this repository, you will:
 
 ## 📜 License
 
-This project is open-source and available under the [MIT License]().
+This project is open-source and available under the [MIT License](https://github.com/PrateekRaj8125/Applications-Development/blob/main/LICENSE.md).
 
 ---
 

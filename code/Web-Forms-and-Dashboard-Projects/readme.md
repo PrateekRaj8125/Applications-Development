@@ -10,9 +10,9 @@ These projects simulate real-world applications such as support systems, registr
 
 | S. No. | Projects | Description |
 | --- | --- | --- |
-| 1. | [Service Request Form]() | Advanced support ticket form with multiple input types |
-| 2. | [Multi-Step Form System]() | Step-by-step registration and feedback workflow |
-| 3. | [Student Management Dashboard]() | Interactive system to manage and display student data |
+| 1. | [Service Request Form](https://github.com/PrateekRaj8125/Applications-Development/tree/main/code/Web-Forms-and-Dashboard-Projects/Service-Request-Form) | Advanced support ticket form with multiple input types |
+| 2. | [Multi-Step Form System](https://github.com/PrateekRaj8125/Applications-Development/tree/main/code/Web-Forms-and-Dashboard-Projects/Multi-Step-Form-System) | Step-by-step registration and feedback workflow |
+| 3. | [Student Management Dashboard](https://github.com/PrateekRaj8125/Applications-Development/tree/main/code/Web-Forms-and-Dashboard-Projects/Student-Management-Dashboard) | Interactive system to manage and display student data |
 
 ---
 
